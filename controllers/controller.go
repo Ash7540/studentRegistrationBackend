@@ -14,7 +14,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectionString = "mongodb+srv://ashwin123:ashwin123@cluster0.lie6s2w.mongodb.net/?retryWrites=true&w=majority"
+const connectionString = "mongodbconnection"
 const dbName = "student"
 const colName = "studentForm"
 
